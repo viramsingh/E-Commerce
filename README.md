@@ -1,4 +1,4 @@
-# MarketStack E-Commerce App
+# E-Commerce App
 
 MarketStack is a responsive React e-commerce application built with Vite. It includes product CRUD, cart management, coupons, JWT-style local authentication, protected routes, checkout summary, Tailwind CSS styling, and toast notifications.
 
